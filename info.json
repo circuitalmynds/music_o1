@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1035.6174,
+    "videos": [
         "Conjunto Primavera Quien como tu-tDD5Yw38rBI.mp4",
         "LImpératrice ♔ LImpératrice.mp4",
         "CANSERBERO- HIPOCRITAS (Con Letra)-tKddleILRMI.mp4",
@@ -90,7 +91,6 @@
         "OH LONESOME ME ~ Don Gibson  1958-Xc-2eO8FJzk.mp4",
         "Mac Wiseman - Johnny's Cash and Charley's Pride-_QIJ1tFMTmA.mp4",
         "La Polla Records - Igual Para Todos-uDvC1dM7eX0.mp4",
-        "Polo .mp4",
         "Transplants - Quick Death-vflsV8B0H7g.mp4",
         "Oye Morena-t7blKpE4mzc.mp4",
         "THE CURE- PLAY FOR TODAY-hmbOLTWggXI.mp4",
@@ -109,7 +109,5 @@
         "La Formula-Vr-X_8lTd4s.mp4",
         "Otra vez me equivoqué-BnLfxqXATzk.mp4",
         "La Polla Records - La Gamberra.-_8r__sAe3ak.mp4"
-    ],
-    "id": "o1",
-    "total_size": 990.334260742187
+    ]
 }
